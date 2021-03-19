@@ -45,14 +45,15 @@ Anexos
 -7.5.4. Resuelva las operaciones anteriores por medio de la calculadora y compare resultados
 7.5.1.
 
-![.](IMG/0.png)
+![.](A1.jpeg)
+
 7.5.2.
 
-![.](IMG/1.png)
+![.](A2.jpeg)
 
 7.5.3.
 
-![.](IMG/2.png)
+![.](A3.jpeg)
 
 6. CONCLUCION
 
