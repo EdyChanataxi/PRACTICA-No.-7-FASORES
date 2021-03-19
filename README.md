@@ -43,17 +43,10 @@ Anexos
 Anexos
 
 -7.5.4. Resuelva las operaciones anteriores por medio de la calculadora y compare resultados
-7.5.1.
+![1](https://user-images.githubusercontent.com/76446982/111729674-8d4dc980-883d-11eb-8102-fd388fce2bb1.jpeg)
+![2](https://user-images.githubusercontent.com/76446982/111729675-8e7ef680-883d-11eb-866c-d16193c82132.jpeg)
+![3](https://user-images.githubusercontent.com/76446982/111729676-8e7ef680-883d-11eb-9e10-d15adf89f6ba.jpeg)
 
-![.](A1.png)
-
-7.5.2.
-
-![.](A2.png)
-
-7.5.3.
-
-![.](A3.png)
 
 6. CONCLUCION
 
