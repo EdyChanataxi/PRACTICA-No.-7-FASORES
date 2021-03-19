@@ -28,13 +28,15 @@
 
 5. EXPLICACION 
 
+- 7.5.1 transforme a su forma polar
+Para esto utilizaremos las siguientes formulas
+Para el modulo C=sqrt
 
 6. CONCLUCION
 
-
+- Al momento de operar tienen un parecido a cuando operamos con vectores ya que aqui ya sea suma, resta, multiplicaion o division de lo debe hacer real con real e imaginario con imaginario
+- Los resultados que nos da la calculadora son algo diferentes a los analiticos y esto se debe a que la calculadora usa un mayor numero de elementos a los que utilizamos nosotros
 
 7. BIBLIOGRAFIA
-
-- Sadiku. (sf). Teoremas de circuitos. En Sadiku, Fundamentos de Circuitos Eléctricos
 
 - Floyd, T. (2007). PRINCIPIOS DE CIRCUITOS ELÉCTRICOS. (8va ed.). México, México: Pearson Education.
