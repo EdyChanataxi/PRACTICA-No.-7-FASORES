@@ -3,13 +3,15 @@
 
 1. OBJETIVOS 
 
-- Emplear las operaciones b
-
 1.1. OBJETIVO GENERAL
 
+- Emplear las operaciones basicas de la aritmetica con los numeros complejos y ver la diferencia de cuando realizamos calculos analiticos con los numeros reales
 
  1.2. OBJETIVO ESPECIFICO
 
+- Analizar la forma rectancgular y polar de los numeros complejos
+- Pasar de forma rectangular a polar y viceversa de forma analitica
+- Comparar los calculos realizados detalladamente con los que nos arroja una calculadora cientifica
 
 
 2. MARCO TEORICO
@@ -22,7 +24,7 @@
 
 | CANTIDAD|MATERIAL O EQUIPO|
 | ----- | ---- |
-|1|Generador de funciones|
+|1|Calculadora cientifica|
 
 5. EXPLICACION 
 
