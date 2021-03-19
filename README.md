@@ -28,9 +28,20 @@
 
 5. EXPLICACION 
 
-- 7.5.1 transforme a su forma polar
-Para esto utilizaremos las siguientes formulas
-Para el modulo C=sqrt
+- 7.5.1 Transforme a su forma polar
+
+Anexos
+
+-7.5.2. Transforme a su forma rectangular
+
+Anexos
+
+-7.5.3. Realice las siguientes operaciones paso a paso y represente el resultado tanto en su forma rectangular como en su forma polar.
+
+Anexos
+
+-7.5.4. Resuelva las operaciones anteriores por medio de la calculadora y compare resultados
+
 
 6. CONCLUCION
 
