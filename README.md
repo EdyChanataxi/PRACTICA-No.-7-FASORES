@@ -18,9 +18,9 @@
 
 3. DIAGRAMAS
 
-![.]_(IMG/ze.png)
+![.](IMG/ze.png)
 
-![.]_(
+![.](IMG/modulo-y-argumento-de-un-numero-complejo.png)
 
 4. LISTA DE COMPONENTES
 
@@ -43,7 +43,37 @@ Anexos
 Anexos
 
 -7.5.4. Resuelva las operaciones anteriores por medio de la calculadora y compare resultados
+7.5.1.
 
+![.](IMG/WhatsApp Image 2021-03-18 at 21.39.14.jpeg)
+
+![.](IMG/WhatsApp Image 2021-03-18 at 21.39.14 (1).jpeg)
+
+![.](IMG/WhatsApp Image 2021-03-18 at 21.39.14 (2).jpeg)
+
+7.5.2.
+
+![.](IMG/WhatsApp Image 2021-03-18 at 21.39.15.jpeg)
+
+![.](IMG/WhatsApp Image 2021-03-18 at 21.39.15 (1).jpeg)
+
+![.](IMG/WhatsApp Image 2021-03-18 at 21.39.15 (2).jpeg)
+
+![.](IMG/WhatsApp Image 2021-03-18 at 21.39.15 (3).jpeg)
+
+7.5.3.
+
+![.](IMG/WhatsApp Image 2021-03-18 at 21.39.15 (4).jpeg)
+
+![.](IMG/WhatsApp Image 2021-03-18 at 21.39.15 (5).jpeg)
+
+![.](IMG/WhatsApp Image 2021-03-18 at 21.39.15 (6).jpeg)
+
+![.](IMG/WhatsApp Image 2021-03-18 at 21.39.15 (7).jpeg)
+
+![.](IMG/WhatsApp Image 2021-03-18 at 21.39.15 (8).jpeg)
+
+![.](IMG/WhatsApp Image 2021-03-18 at 21.39.16.jpeg)
 
 6. CONCLUCION
 
