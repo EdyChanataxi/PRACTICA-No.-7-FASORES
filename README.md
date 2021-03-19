@@ -18,7 +18,9 @@
 
 3. DIAGRAMAS
 
+![.]_(IMG/ze.png)
 
+![.]_(
 
 4. LISTA DE COMPONENTES
 
