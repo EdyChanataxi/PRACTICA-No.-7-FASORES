@@ -15,6 +15,7 @@
 
 
 2. MARCO TEORICO
+![fasores](https://user-images.githubusercontent.com/76446982/111734398-0fdb8680-8848-11eb-95ad-9538fe6064a7.jpg)
 
 3. DIAGRAMAS
 
